@@ -9,7 +9,7 @@ inf. 02 oraz inf. 03.
 
 ❤️ **COMPUTER NETWORKS**
 👀 **WEB DEVELOPMENT**
-👍 **HTML/CSS/JS/PHP/MySQL/PYTHON/**
+👍 **HTML / CSS / JS / PHP / MySQL / PYTHON / C++**
 💻 **Practice makes perfect**
 
 ---
